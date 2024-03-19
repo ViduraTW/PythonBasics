@@ -1,5 +1,4 @@
 
-"""
 first_name = input("What is your first name?")
 last_name = input("What is your last name?")
 
@@ -91,7 +90,7 @@ tuples = ("one", "two", "three", "four", "five")
 for i in tuples:
     print(i)
 
-"""
+
 
 
 
