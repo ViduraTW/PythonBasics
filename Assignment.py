@@ -1,4 +1,5 @@
 
+"""
 first_name = input("What is your first name?")
 last_name = input("What is your last name?")
 
@@ -54,6 +55,55 @@ if year%4 == 0:
     print("Leap Year")
 else:
     print("Not a leap Year")
+
+
+m = 2
+
+while m <= 20:
+    print(m)
+    m = m + 2
+
+
+
+for i in range(2, 21, 2):
+    print(i)
+
+
+n = int(input("Number?"))
+sum = 0
+
+for i in range(1, n+1):
+    sum = sum + i
+
+print(sum)
+
+
+
+
+list = [3, 5, 9, 3, 2, 9, 10]
+
+for i in list:
+    print(i)
+
+
+tuples = ("one", "two", "three", "four", "five")
+
+for i in tuples:
+    print(i)
+
+"""
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
